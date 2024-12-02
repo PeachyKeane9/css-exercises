@@ -1,0 +1,22 @@
+.element-1,
+.element-3,
+.element-5  {
+    background-color: #f5889a;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#element-2 {
+    color: hsl(207, 100%, 55%);
+    font-size: 36px;
+
+}
+
+.element-3 {
+    font-size: 24px;
+}
+
+#element-4 {
+    background-color: rgb(83, 245, 83);
+    font-size: 24px;
+    font-weight: bold;
+}

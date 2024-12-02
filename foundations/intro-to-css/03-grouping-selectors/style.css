@@ -1,0 +1,14 @@
+.bkl-bkground,
+.yellow-bkground {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.bkl-bkground {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.yellow-bkground {
+    background-color: #ffff00;
+}

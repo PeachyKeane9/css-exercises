@@ -1,22 +1,19 @@
-.element-1,
-.element-3,
-.element-5  {
-    background-color: #f5889a;
+.odd {
+    background-color: lightcoral;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #element-2 {
-    color: hsl(207, 100%, 55%);
+    color: blue;
     font-size: 36px;
 
 }
 
-.element-3 {
+.diff-font-size {
     font-size: 24px;
 }
 
 #element-4 {
-    background-color: rgb(83, 245, 83);
-    font-size: 24px;
+    background-color: rgb(144, 238, 144);
     font-weight: bold;
 }

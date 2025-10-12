@@ -3,18 +3,25 @@ body {
 }
 
 .para,
-.small-para {
+.small-para,
+.text .child {
   color: hsl(0, 0%, 0%);
   font-weight: 800;
 }
 
-.para.small-para {
+.para.small-para,
+div .child {
   font-size: 14px;
-  font-weight: 800;
 }
 
 .para {
   font-size: 22px;
+}
+
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
 }
 
 .button.confirm {
@@ -23,21 +30,9 @@ body {
   font-weight: bold;
 } 
 
-.button {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
-  font-size: 20px;
-}
-
 div {
   color: rgb(0, 0, 0);
   font-weight:100;
   font-size: 22px;
 
-}
-
-div .child {
-  color: rgb(0, 0, 0);
-  font-weight: 800;
-  font-size: 14px;
 }
